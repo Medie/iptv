@@ -30,4 +30,4 @@ jobs:
           curl -X POST \
             -H "Content-Type: application/json" \
             -d '{}' \
-            "https://<YOUR-COOLIFY-DOMAIN>/api/v1/deploy?uuid=<YOUR-APP-UUID>&force=false"
+            "https://medie.dev/api/v1/deploy?uuid=cocgk0c4oc0w444g8swocs4k&force=false"
